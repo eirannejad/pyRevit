@@ -41,6 +41,9 @@ namespace pyRevitLabs.PyRevit {
         public const string ReleaseDirName = "release";
         public const string SitePackagesDirName = "site-packages";
         public const string PyRevitfileFilename = "PyRevitfile";
+        
+        public const string NetFxFolder = "netfx";
+        public const string NetCoreFolder = "netcore";
 
         // clones
         public const string DeployFromImageConfigsFilename = ".pyrevitargs";
